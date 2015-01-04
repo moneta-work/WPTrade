@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* WPYOU Options CSS */
+.clearfix{clear:both;font-size:1px;width:1px;height:0;visibility:hidden;margin-top:0px!important;*margin-top:-1px;line-height:0}
+.wpyounavi{ margin:1em 0em; padding-left:2%; width:97%; font-size:16px !important; height:36px; line-height:38px; border:1px solid #B7DCEE; background-color:#E0F0F8; -moz-border-radius:8px;}
+.wpyou-form{ border:1px solid #E5E5E5;}
+.wpyou-form h3{ margin:0; padding:6px 10px 5px !important; font-size:16px !important; text-align:center; text-shadow:none; -moz-border-radius:5px;}
+.wpyou-form span.description{ font-style:normal;} .form-table h3{ padding:5px 10px 4px; color:#FFF; background-color:#21759B;}
+.wpyou-form tr{ border-bottom:1px dotted #CCC; background-color:#FFF;}
+.wpyou-form th{ padding:15px 10px; width:220px !important; font-weight:bold; text-align:right; background-color:#F1F1F1;}
+.wpyou-form tr.toptitle{ background-color:#EAF5FB !important;}
+.wpyou-form tr.toptitle th{ padding:8px 10px; background-color:#E0F0F8;}
+.wpyou-form td{ padding:15px 10px; line-height:24px !important;}
+.wpyou-form span.description{ padding-left:4px; font-style:normal !important; font-weight:normal;} 
+.wpyou-form input.button-primary{ padding:4px 180px 3px; font-size:16px !important; -moz-border-radius:5px; border-radius:5px; background-color:#288AB7;}
+.wpyou-form textarea:hover, input:hover, select:hover{ border-color:#007777 !important;}
+.howto strong{ font-style:normal !important;}
+
+.wpyoutextarea{ width:50em; height:15em;}
+.markItUp{ width:50em; border:none !important;}
+.markItUpContainer{ padding:0px 0px !important; border:1px solid #DFDFDF !important; background:none !important;}
+.markItUpEditor{ padding:10px 5px !important; border:none !important; background:none !important;}
+.markItUpHeader{ float:left; padding:5px 1% 3px !important; width:98%;  background-color:#E5E5E5;}
+.markItUpPreviewFrame{ border:1px dashed #3C769D !important;}
